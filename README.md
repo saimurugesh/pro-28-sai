@@ -1,2 +1,1 @@
-# pro-28
-this project is the next step of stage 6
+# project-C27-template
